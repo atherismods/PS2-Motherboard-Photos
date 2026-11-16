@@ -1,7 +1,7 @@
 # PS2 Motherboard Photos
 
 This repository contains photos of various PlayStation 2 motherboard revisions. Each folder includes photos of both the top (A) and bottom (B) sides of the board. Where available, I've also included the console's shell label to help identify its model and region. Some boards were photographed loose, so their original labels aren't available. I've mostly worked with PS2 Slim models over the years, so those make up the majority of the boards photographed. Not all photos are perfectly clear, and some may not show individual traces well enough to follow them, but they should still be useful for comparing board layouts, component placement and differences between revisions.
-
+![](cover.png)
 ## Contents
 
 - [GH-013](Motherboards/GH-013/)
